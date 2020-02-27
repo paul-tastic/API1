@@ -1,3 +1,3 @@
 # API1
 
-API1 is a basline API structure for providing enpoints for basic CRUD operations. It is based on a product line of sorts with two value channels: Categories or Products.
+API1 is a fun little project I decided to create to build out a basic API structure. I'm using it to provide endpints for CRUD operations for managing wines.
