@@ -1,13 +1,13 @@
-<?php
+<?php 
 
 class Database 
 {
 
-	private $host = "";
-	private $dbName = "";
-	private $username = "";
+	private $host = "localhost";
+	private $dbName = "api_wine";
+	private $username = "root";
 	private $password = "";
-	private $connection = "";
+	private $connection;
 
     public function getConnection() {
 
@@ -24,5 +24,5 @@ class Database
 	}
 
 }
-?>
-}
+
+
